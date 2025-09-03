@@ -60,7 +60,7 @@ with left:
 
 st.sidebar.button('🏠 Anasayfa', on_click=reset_to_home)
 
-st.title("Uzun Kod Oluşturma Programı - v19_patch2 / Statik"))
+st.title("Uzun Kod Oluşturma Programı - v19_patch2 / Statik")
 st.caption("Seçtikçe uzun kod otomatik oluşur.")
 with right:
     try:
